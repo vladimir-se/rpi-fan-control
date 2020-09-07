@@ -9,6 +9,7 @@ Variable parameters:
 - max_temp - The temperature at which the cooler turns on.
 
 
+Installation:
 ```python
 cp {custom.sh,fan.sh} /userdata/system/
 chmod +x /userdata/system/{custom.sh,fan.sh}
