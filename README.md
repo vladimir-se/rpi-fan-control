@@ -4,9 +4,9 @@
 # In the fan.sh file change CPU_PIN parameter to your.
 
 Variable parameters:
-fan_pin - PIN number;
-min_temp - Temperature at which the cooler turns off;
-max_temp - The temperature at which the cooler turns on.
+- fan_pin - PIN number;
+- min_temp - Temperature at which the cooler turns off;
+- max_temp - The temperature at which the cooler turns on.
 
 
 ```python
