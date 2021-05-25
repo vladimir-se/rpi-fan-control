@@ -1,5 +1,6 @@
 #!/bin/sh
 
+# vars
 fan_pin=164
 min_temp=55
 max_temp=60
